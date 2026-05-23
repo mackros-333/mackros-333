@@ -1,4 +1,36 @@
-## Hi there 👋
+# Привет, меня зовут Смирнов Илья 👋
+
+**Python-разработчик** и специалист по автоматизации.
+
+---
+
+## Обо мне
+
+- 🔭 Работаю над портфолио: сбор данных, анализ, мониторинг
+- 🌱 Изучаю: Flask, SQL, Docker
+- 🎯 Цель: работа в IT — автоматизация, аналитика данных, backend
+- ⚡ Факт: освоил Python с нуля и собрал 1000 книг с реального сайта
+
+---
+
+## Мои проекты
+
+| Проект | Описание |
+|--------|----------|
+| [📚 Сборщик книг](https://github.com/mackros-333/my_eng_project) | Парсинг 50 страниц, CSV, графики, авто-запуск |
+| [🔍 Мониторинг сайтов](https://github.com/mackros-333/site-monitor) | Проверка доступности, логирование, тесты |
+
+---
+
+## Технологии
+
+`Python` `requests` `BeautifulSoup` `pandas` `matplotlib` `pytest` `Git` `GitHub`
+
+---
+
+## Связь
+
+📫 email: zaraza.my@mail.ru
 
 <!--
 **mackros-333/mackros-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
